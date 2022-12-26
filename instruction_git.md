@@ -120,3 +120,4 @@
 6. Add commit for C-branch
 
 2. Add commit in D-branch
+7. Commit for E-branch
