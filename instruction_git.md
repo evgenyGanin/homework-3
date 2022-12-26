@@ -83,3 +83,4 @@
 ### Просмотр всех веток
 
 3. Add Commit in A-branch
+4. Add E-branch
