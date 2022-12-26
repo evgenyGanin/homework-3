@@ -112,3 +112,9 @@
 
 
 
+
+
+
+    git merge
+
+6. Add commit for C-branch
