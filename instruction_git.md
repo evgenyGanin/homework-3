@@ -29,3 +29,8 @@
 
     git add <filename>
 ***
+
+Команда добавляющая комментарий к изменению
+
+    git commit -m "message"
+***
