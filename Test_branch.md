@@ -2,3 +2,4 @@
 test text
 test text in deleted file (branch B)
 test text in C_branch
+test text in D_branch
