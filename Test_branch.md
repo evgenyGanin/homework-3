@@ -1,7 +1,4 @@
 **Test title**
-test text
+test textb
 test text in deleted file (branch B)
-<<<<<<< HEAD
-=======
 test text in b_branch
->>>>>>> b_branch
